@@ -1,6 +1,6 @@
 # Overview
 
-Using Python, PySpark, and SparkSQL, this project analyzes home sales data to extract key metrics, optimize queries, and improve data processing efficiency. The project involves creating temporary views, partitioning data, caching tables, and comparing query performance using different optimizations.
+Leveraging Python, PySpark, and SparkSQL, this project analyzes home sales data to extract key metrics, optimize queries, and improve data processing efficiency. The project involves creating temporary views, partitioning data, caching tables, and comparing query performance using different optimizations.
 
 # Project Components
 
