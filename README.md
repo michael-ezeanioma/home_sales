@@ -23,13 +23,9 @@ __Parquet files:__ Generated partitioned data for optimized querying.
 
 # Key Features
 
-__Data Preprocessing:__
+__Data Preprocessing:__ Reads home sales data and extracts relevant variables and Creates a temporary SparkSQL table for efficient querying.
 
-Reads home sales data and extracts relevant variables and Creates a temporary SparkSQL table for efficient querying.
-
-__SparkSQL Analysis:__
-
-Executes SQL queries to extract home price trends and analyzes housing data based on key attributes like bedrooms, floors, and square footage.
+__SparkSQL Analysis:__ Executes SQL queries to extract home price trends and analyzes housing data based on key attributes like bedrooms, floors, and square footage.
 
 __Performance Optimization:__ Implements caching to reduce query runtime. Uses Parquet partitioning to optimize data retrieval while comparing query performance across different optimization strategies.
 
@@ -51,11 +47,8 @@ __Jupyter Notebook:__ Interactive environment for running PySpark commands.
 
 # How to Use
 
-1 .Clone this repository to your local environment:
-
-2 .Install PySpark if not already installed:
-
+1 .Clone this repository to your local environment
+2 .Install PySpark if not already installed
 3. Open and run the Home_Sales.ipynb notebook in Jupyter Notebook or Google Colab.
-
 4. Execute SQL queries, analyze trends, and compare query performance with different optimizations.
 Module 22 HW
