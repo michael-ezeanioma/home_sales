@@ -52,6 +52,6 @@ __Jupyter Notebook:__ Interactive environment for running PySpark commands.
 2 .Install PySpark if not already installed
 
 3. Open and run the Home_Sales.ipynb notebook in Jupyter Notebook or Google Colab.
-   
+
 4. Execute SQL queries, analyze trends, and compare query performance with different optimizations.
 Module 22 HW
